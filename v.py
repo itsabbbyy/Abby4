@@ -17,7 +17,7 @@ keep_alive()
 
 # insert your Telegram bot token here
 
-bot = telebot.TeleBot('7437598395:AAEJLc4z4gFLJlsYSQV8SlN5OT7QIcJ5EBg')
+bot = telebot.TeleBot('7672180334:AAHuHqjWK15gqcs2PF9Fv4fjbAo7IQiybqE')
 
 
 
